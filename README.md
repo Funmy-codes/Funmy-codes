@@ -4,7 +4,7 @@
 Hi, I'm Seun, a passionate data analyst with a strong background in Python programming and data analysis. I specialize in turning complex datasets into meaningful insights to help businesses make data-driven decisions. With experience in data cleaning, visualization, and statistical analysis, I'm skilled in tools like Python, Pandas, NumPy, and SQL.
 
 ## 🔭 What I'm Currently Working On
-- Linear Regression
+- Deep Learning
 
 
 ## 🌱 What I'm Learning
