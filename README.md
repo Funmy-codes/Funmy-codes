@@ -15,7 +15,7 @@ Hi, I'm Seun, a passionate data analyst with a strong background in Python progr
 
 ## 📫 How to Reach Me
 - Email: [ibigbamioluwaseunfunmi16@gmail.com](mailto:ibigbamioluwaseunfunmi16@gmail.com)
-
+- LinkedIn: Ibigbami Oluwaseunfunmi
 
 ## ⚡ Fun Fact
 - I have fun fixing bugs
